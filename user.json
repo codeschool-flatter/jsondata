@@ -1,0 +1,55 @@
+{"gender": "male",
+"name": {
+    "title": "Mr",
+    "first": "Dominic",
+    "last": "Warholm"
+},
+"location": {
+    "street": {
+        "number": 7601,
+        "name": "Bogerudslyngen"
+    },
+    "city": "Seljord",
+    "state": "Trøndelag",
+    "country": "Norway",
+    "postcode": "0973",
+    "coordinates": {
+        "latitude": "49.6471",
+        "longitude": "-57.4599"
+    },
+    "timezone": {
+        "offset": "-1:00",
+        "description": "Azores, Cape Verde Islands"
+    }
+},
+"email": "dominic.warholm@example.com",
+"login": {
+    "uuid": "3f6c1adc-5d50-449b-9de4-0f482cb1c7b8",
+    "username": "tinyfish110",
+    "password": "speedo",
+    "salt": "vZtctLTL",
+    "md5": "3dbfe871472c85e1427a1f22be26f82b",
+    "sha1": "31cba2806e957816419b7be744e12d484e808ee7",
+    "sha256": "202202f5a16fe14d247e665aa92446723a2142cc26cc0a340a5bc9208224944d"
+},
+"dob": {
+    "date": "1997-12-25T02:51:24.571Z",
+    "age": 25
+},
+"registered": {
+    "date": "2007-05-19T21:36:35.019Z",
+    "age": 15
+},
+"phone": "27707465",
+"cell": "43323913",
+"id": {
+    "name": "FN",
+    "value": "25129746796"
+},
+"picture": {
+    "large": "https://randomuser.me/api/portraits/men/55.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/55.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/55.jpg"
+},
+"nat": "NO"
+}
