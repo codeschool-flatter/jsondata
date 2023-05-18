@@ -2,5 +2,6 @@ import 'dart:convert';
 import '../lib/from_json.dart';
 
 void main() {
-  print(readJson('user.json'));
+  Map user = readJson('user.json');
+  print(user['gender']);
 }
