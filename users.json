@@ -1,0 +1,44 @@
+{
+    "users": [
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Dominic",
+                "last": "Warholm"
+            },
+            "age": 23,
+            "country": "Norway"
+        },
+        {
+            "gender":"male",
+            "name": {
+                "title": "Mr",
+                "first": "Eliud",
+                "last": "Kipchoge"
+            },
+            "age": 34,
+            "country":"Kenya"
+        },
+        {
+            "gender":"male",
+            "name": {
+                "title": "Mr",
+                "first": "Allyson",
+                "last": "Felix"
+            },
+            "age": 24,
+            "country": "USA"
+        },
+        {
+            "gender":"female",
+            "name": {
+                "title": "Ms",
+                "first": "Caster",
+                "last": "Semenya"
+            },
+            "age": 28,
+            "country":"South Africa"
+        }
+    ]
+}
